@@ -4,11 +4,11 @@ main:
     url: /
   - title: "Blog"
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  - title: "About"
-    url: https://mmistakes.github.io/minimal-mistakes/about/
-  - title: "Affiliate Marketing"
-    url: /year-archive/
   - title: "Best Software"
     url: /collection-archive/
-  - title: "Sitemap"
+  - title: "How-To-Guides"
     url: /sitemap/
+  - title: "Affiliate Marketing"
+    url: /year-archive/
+    - title: "About"
+    url: https://mmistakes.github.io/minimal-mistakes/about/
