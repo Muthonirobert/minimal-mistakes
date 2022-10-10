@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 locale                   : "en-US"
 title                    : "Making Money online"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : "This is your site."
 name                     : "Muthoni Robert"
 description              : "Make extra dollars at the comfort of your home."
 url                      : "https://muthonirobert.github.io/minimal-mistakes/"
